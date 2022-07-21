@@ -20,20 +20,20 @@ List of apps and configs I have made to used my Windows computer smoothly
     - [KMPlayer](#kmplayer)
     - [Popcorn Time](#popcorn-time)
   - [Tool](#tool)
+    - [Bitwarden](#bitwarden)
     - [Windir Stats](#windir-stats)
-  - [Utilities](#utilities)
     - [Windows Power Toys](#windows-power-toys)
 
 ## Coding
 
 ### Visual Studio Code
 [Download]()  
-Visual Studio Code is my main code editor. I also use it for my note/blog writing also.
+> Visual Studio Code is my main code editor. I also use it for my note/blog writing also.
 So I have a dedicated post for it [here]()
 
 ### Tabby
 [Download](https://github.com/Eugeny/tabby)   
-Tabby is the terminal which is run on multiple platform. I found it works very well on windows as well as Mac or Linux.
+> Tabby is the terminal which is run on multiple platform. I found it works very well on windows as well as Mac or Linux.
 So I use it as my main terminal.  
 I use it almost with default settings here is my little changes in configs:   
 - font-size: 18  
@@ -52,7 +52,10 @@ I also pay the premium version of it.
 ## Browser
 
 ### Microsoft Edge
-[Download]()
+[Download]()  
+> Edge become my main web browser since MS decide to turn to use Chromnium as its core.
+They also develop very nice feature like vertical tabs and tab grouping.
+I wonder if I should have a list of useful extension to installs on the browser.
 
 ### Firefox
 [Download]()
@@ -86,11 +89,14 @@ I also pay the premium version of it.
 ## Tool
 A list of tool to make working with Windows is more comfortable.
 
-### Windir Stats
-[Download]()
-- This software is very useful to check disk storage to find out which files are taking space. I use this to detect large files and clean up.
+### Bitwarden
+[Download](https://bitwarden.com/)  
+- Actually, I use Bitwarden as an extension on web browser.
+But it is very crucial application to manage password so I want to mention it here.
 
-## Utilities
+### Windir Stats
+[Download](https://windirstat.net/)
+- This software is very useful to check disk storage to find out which files are taking space. I use this to detect large files and clean up.
 
 ### Windows Power Toys
 [Dowload](https://github.com/microsoft/PowerToys)
