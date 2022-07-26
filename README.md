@@ -11,18 +11,23 @@ List of apps and configs I have made to used my Windows computer smoothly
     - [Microsoft Edge](#microsoft-edge)
     - [Firefox](#firefox)
     - [Google Chrome](#google-chrome)
+    - [Brave Browser](#brave-browser)
   - [Social](#social)
     - [Telegram](#telegram)
     - [Zalo](#zalo)
     - [Slack](#slack)
     - [Discord](#discord)
   - [Media](#media)
+    - [Splash Player](#splash-player)
     - [KMPlayer](#kmplayer)
     - [Popcorn Time](#popcorn-time)
-  - [Tool](#tool)
+  - [Tools](#tools)
     - [Bitwarden](#bitwarden)
     - [Windir Stats](#windir-stats)
     - [Windows Power Toys](#windows-power-toys)
+    - [Adobe Lightroom Classic](#adobe-lightroom-classic)
+    - [Adobe Photoshop](#adobe-photoshop)
+    - [Transmission](#transmission)
 
 ## Coding
 
@@ -41,7 +46,7 @@ I use it almost with default settings here is my little changes in configs:
 
 ### Table Plus
 [Download](https://tableplus.com/)  
->Table Plus is a database UI client. I use it to connect with database server in my develop process.
+> Table Plus is a database UI client. I use it to connect with database server in my develop process.
 It is very easy to use and support many different databases.
 It is developed by Vietnammese developers.
 I also pay the premium version of it.
@@ -52,54 +57,86 @@ I also pay the premium version of it.
 ## Browser
 
 ### Microsoft Edge
-[Download]()  
+[Download](https://www.microsoft.com/en-us/edge)  
 > Edge become my main web browser since MS decide to turn to use Chromnium as its core.
 They also develop very nice feature like vertical tabs and tab grouping.
 I wonder if I should have a list of useful extension to installs on the browser.
 
 ### Firefox
-[Download]()
+[Download](https://www.mozilla.org/en-US/firefox/)
+> Firefox is always my second choice. It has its own unique features that I like to explore around.
 
 ### Google Chrome
-[Download]()
+[Download](https://www.google.com/intl/vi_vn/chrome/)
+> Chrome used to be my first choice browser, but since Edge with chromnium comes up. I leave the Google Chrome as third choice.
+
+### Brave Browser
+[Download](https://brave.com/)
+> Brave is the first (and only till 2022), has integrate the ad-blocker inside the browser.
+> So that you can use Brave without worrying about the ads everywhere.
+> Brave also has BAT token, a crypto currency that encourage users to use Brave, watch selected ads and receive payment.
 
 ## Social
 
 ### Telegram
-[Download]()
+[Download](https://telegram.org/)
+> Since I knew about telegram (late 2017). Telegram always my favorite messenger app.
+> It is fast and stable. It also has nice sticker and gif pack. It also has no censorship.
 
 ### Zalo
-[Download]()
+[Download](https://zalo.me/pc)
+> Zalo currently (2022) is the most popular messenger app in Vietnam.
+So that I use Zalo to connect with my friend and mostly my family.
 
 ### Slack
-[Download]()
+[Download](https://slack.com/)
+> I use slack only for work as my company using slack to corporate within teams.
+> Undeniable that slack thread is very useful feature that keep the communication in focus
 
 ### Discord
-[Download]()
+[Download](https://discord.com/)
 
 ## Media
 
+### Splash Player
+[Download](https://mirillis.com/download-splash-free-hd-video-player)
+
 ### KMPlayer
-[Download]()
+[Download](https://www.kmplayer.com/home)
+> KMPlayer 
 
 ### Popcorn Time 
 [Download](https://github.com/popcorn-official/popcorn-desktop)
 > This software is very awesome to watch movie as it use torrent file and streaming directly to your computer. However you will need a strong internet connection in order to watch the movie smoothly. Also as it is using torrent, you will need other peers to seed it for you. 
 
-## Tool
+## Tools
 A list of tool to make working with Windows is more comfortable.
 
 ### Bitwarden
 [Download](https://bitwarden.com/)  
->Actually, I use Bitwarden as an extension on web browser.
+> Actually, I use Bitwarden as an extension on web browser.
 But it is very crucial application to manage password so I want to mention it here.
 
 ### Windir Stats
 [Download](https://windirstat.net/)
->This software is very useful to check disk storage to find out which files are taking space. I use this to detect large files and clean up.
+> This software is very useful to check disk storage to find out which files are taking space. I use this to detect large files and clean up.
 
 ### Windows Power Toys
 [Dowload](https://github.com/microsoft/PowerToys)
 > Windows Power Toys help re-keymap natively on Windows, I use it to remap my `caplocks` to `esc`, I don't use `caplocks` any time
 
->Windows Power Toys also has Power Toys run, trigger by `alt+space` which is very similar to Mac Spotlight. However, it is still lack of dictionary function (at the time I wrote this 21 July, 2022). I often use it in Mac
+>Windows Power Toys also has Power Toys run, trigger by `alt+space` which is very similar to Mac Spotlight. However, it is still lack of dictionary function (at the time I wrote this 21 July, 2022). I often use it in Mac.
+
+### Adobe Lightroom Classic
+[Download](https://www.adobe.com/creativecloud/photography.html)
+> Beside coding, I also like to take photo then I use Adobe Lightroom Classic to edit most of my photos with raw.
+> I also often edit my photo on mobile with Snapseed.
+
+### Adobe Photoshop
+[Download](https://www.adobe.com/creativecloud/photography.html)
+> Photoshop is really a powerful application that you can do many creative jobs.
+> I don't use this application much but I have it in my photography pack of Adobe, then I list it here.
+
+### Transmission
+[Download](https://transmissionbt.com/download/)
+> Minimal torrent client without any ads. 
