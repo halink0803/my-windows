@@ -5,6 +5,7 @@ List of apps and configs I have made to used my Windows computer smoothly
   - [Coding](#coding)
     - [Visual Studio Code](#visual-studio-code)
     - [Tabby](#tabby)
+    - [Terminal](#terminal)
     - [Table Plus](#table-plus)
     - [Windows Sub-system Linux](#windows-sub-system-linux)
   - [Browser](#browser)
@@ -45,7 +46,7 @@ I use it almost with default settings here is my little changes in configs:
 > - color scheme: `Firewatch`
 
 ### Terminal
-[Downlaod](https://github.com/microsoft/terminal)
+[Download](https://github.com/microsoft/terminal)
 > Windows terminal is really a official upgrade to the its legacy `cm` and `powershell` one.
 > I know about this from a vlog if Takuya, I think you guys should watch [it](https://www.youtube.com/watch?v=5-aK2_WwrmM&t=773s) also.
 
