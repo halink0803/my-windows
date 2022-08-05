@@ -44,6 +44,11 @@ I use it almost with default settings here is my little changes in configs:
 > - font-size: 18  
 > - color scheme: `Firewatch`
 
+### Terminal
+[Downlaod](https://github.com/microsoft/terminal)
+> Windows terminal is really a official upgrade to the its legacy `cm` and `powershell` one.
+> I know about this from a vlog if Takuya, I think you guys should watch [it](https://www.youtube.com/watch?v=5-aK2_WwrmM&t=773s) also.
+
 ### Table Plus
 [Download](https://tableplus.com/)  
 > Table Plus is a database UI client. I use it to connect with database server in my develop process.
